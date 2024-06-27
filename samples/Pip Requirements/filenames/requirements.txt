@@ -17,5 +17,5 @@ kornia==0.6
 invisible-watermark>=0.1.5
 streamlit-drawable-canvas==0.8.0
 -e .
-pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
