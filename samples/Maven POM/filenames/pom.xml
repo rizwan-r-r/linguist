@@ -23,10 +23,17 @@
 		<spring.data.jpa.version>1.6.0.RELEASE</spring.data.jpa.version>
 		<cglib.version>3.3.0</cglib.version>
 
+<<<<<< snyk-upgrade-ea872b64589fb2e287cb50025a143eca
+		<mysql.version>5.1.31</mysql.version>
+		<hibernate.version>4.3.5.Final</hibernate.version>
+		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
+		<druid-version>1.0.6</druid-version>
+======
 		<mysql.version>8.0.33</mysql.version>
 		<hibernate.version>5.6.15.Final</hibernate.version>
 		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
 		<druid-version>1.2.23</druid-version>
+>>>>>> master
 
 	</properties>
 
