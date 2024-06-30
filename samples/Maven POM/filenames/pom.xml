@@ -19,9 +19,15 @@
 		<slf4j.version>2.0.13</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 
+<<<<<< snyk-upgrade-5ff1423b0069ed56046671db08520dc9
+		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
+		<cglib.version>2.1_3</cglib.version>
+======
 		<spring.version>6.1.8</spring.version>
 		<spring.data.jpa.version>1.6.0.RELEASE</spring.data.jpa.version>
 		<cglib.version>3.3.0</cglib.version>
+>>>>>> master
 
 <<<<<< snyk-upgrade-ea872b64589fb2e287cb50025a143eca
 		<mysql.version>5.1.31</mysql.version>
