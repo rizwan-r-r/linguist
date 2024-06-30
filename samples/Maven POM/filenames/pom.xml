@@ -25,8 +25,13 @@
 
 <<<<<< snyk-upgrade-ea872b64589fb2e287cb50025a143eca
 		<mysql.version>5.1.31</mysql.version>
+<<<<<< snyk-upgrade-41071e67c5851a898c5261cc26b6194f
+		<hibernate.version>6.5.2.Final</hibernate.version>
+		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
+======
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
+>>>>>> master
 		<druid-version>1.0.6</druid-version>
 ======
 		<mysql.version>8.0.33</mysql.version>
