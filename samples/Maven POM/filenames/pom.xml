@@ -16,17 +16,29 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.7</java.version>
 		<junit.version>4.11</junit.version>
-		<slf4j.version>1.7.7</slf4j.version>
+		<slf4j.version>2.0.13</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 
-		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.version>6.1.8</spring.version>
 		<spring.data.jpa.version>1.6.0.RELEASE</spring.data.jpa.version>
-		<cglib.version>2.1_3</cglib.version>
+		<cglib.version>3.3.0</cglib.version>
 
+<<<<<< snyk-upgrade-ea872b64589fb2e287cb50025a143eca
 		<mysql.version>5.1.31</mysql.version>
+<<<<<< snyk-upgrade-41071e67c5851a898c5261cc26b6194f
 		<hibernate.version>6.5.2.Final</hibernate.version>
 		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
+======
+		<hibernate.version>4.3.5.Final</hibernate.version>
+		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
+>>>>>> master
 		<druid-version>1.0.6</druid-version>
+======
+		<mysql.version>8.0.33</mysql.version>
+		<hibernate.version>5.6.15.Final</hibernate.version>
+		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
+		<druid-version>1.2.23</druid-version>
+>>>>>> master
 
 	</properties>
 
