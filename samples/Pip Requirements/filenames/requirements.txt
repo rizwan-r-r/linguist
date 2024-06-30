@@ -17,8 +17,12 @@ kornia==0.6
 invisible-watermark>=0.1.5
 streamlit-drawable-canvas==0.8.0
 -e .
+<<<<<< snyk-fix-77dd3708b8bd1c19ffdecb3853d7bd37
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+======
 <<<<<< snyk-fix-ec2ae488231226093d4fc26922372d1b
 ======
 pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
 >>>>>> master
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+>>>>>> master
