@@ -15,26 +15,26 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.7</java.version>
-<<<<<< dependabot/maven/samples/Maven-POM/filenames/maven-ab3d6b2538
+&lt;&lt;&lt;&lt;&lt;&lt; dependabot/maven/samples/Maven-POM/filenames/maven-ab3d6b2538
 		<junit.version>4.13.1</junit.version>
 		<slf4j.version>1.7.34</slf4j.version>
 ======
 		<junit.version>4.11</junit.version>
 		<slf4j.version>2.0.13</slf4j.version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 		<log4j.version>1.2.17</log4j.version>
 
-<<<<<< snyk-upgrade-5ff1423b0069ed56046671db08520dc9
-		<spring.version>4.0.5.RELEASE</spring.version>
-<<<<<< snyk-fix-1d95199c71b622cce4aafadaa81fceff
+&lt;&lt;&lt;&lt;&lt;&lt; snyk-upgrade-5ff1423b0069ed56046671db08520dc9
+		<spring.version>6.1.9</spring.version>
+&lt;&lt;&lt;&lt;&lt;&lt; snyk-fix-1d95199c71b622cce4aafadaa81fceff
 		<spring.data.jpa.version>2.5.11</spring.data.jpa.version>
 ======
 		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 		<cglib.version>2.1_3</cglib.version>
 ======
-		<spring.version>6.1.8</spring.version>
-<<<<<< dependabot/maven/samples/Maven-POM/filenames/maven-ab3d6b2538
+		<spring.version>6.1.9</spring.version>
+&lt;&lt;&lt;&lt;&lt;&lt; dependabot/maven/samples/Maven-POM/filenames/maven-ab3d6b2538
 		<spring.data.jpa.version>1.11.23.RELEASE</spring.data.jpa.version>
 		<cglib.version>2.1_3</cglib.version>
 
@@ -42,25 +42,25 @@
 ======
 		<spring.data.jpa.version>1.6.0.RELEASE</spring.data.jpa.version>
 		<cglib.version>3.3.0</cglib.version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 
-<<<<<< snyk-upgrade-ea872b64589fb2e287cb50025a143eca
+&lt;&lt;&lt;&lt;&lt;&lt; snyk-upgrade-ea872b64589fb2e287cb50025a143eca
 		<mysql.version>5.1.31</mysql.version>
-<<<<<< snyk-upgrade-41071e67c5851a898c5261cc26b6194f
+&lt;&lt;&lt;&lt;&lt;&lt; snyk-upgrade-41071e67c5851a898c5261cc26b6194f
 		<hibernate.version>6.5.2.Final</hibernate.version>
 		<hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
 ======
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 		<druid-version>1.0.6</druid-version>
 ======
 		<mysql.version>8.0.33</mysql.version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 		<hibernate.version>5.6.15.Final</hibernate.version>
 		<hibernate-validator.version>6.0.23.Final</hibernate-validator.version>
 		<druid-version>1.2.23</druid-version>
->>>>>> master
+&gt;&gt;&gt;&gt;&gt;&gt; master
 
 	</properties>
 
