@@ -27,20 +27,20 @@
 &lt;&lt;&lt;&lt;&lt;&lt; snyk-upgrade-5ff1423b0069ed56046671db08520dc9
 		<spring.version>6.1.11</spring.version>
 &lt;&lt;&lt;&lt;&lt;&lt; snyk-fix-1d95199c71b622cce4aafadaa81fceff
-		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
+		<spring.data.jpa.version>3.3.1</spring.data.jpa.version>
 ======
-		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
+		<spring.data.jpa.version>3.3.1</spring.data.jpa.version>
 &gt;&gt;&gt;&gt;&gt;&gt; master
 		<cglib.version>2.1_3</cglib.version>
 ======
 		<spring.version>6.1.11</spring.version>
 &lt;&lt;&lt;&lt;&lt;&lt; dependabot/maven/samples/Maven-POM/filenames/maven-ab3d6b2538
-		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
+		<spring.data.jpa.version>3.3.1</spring.data.jpa.version>
 		<cglib.version>2.1_3</cglib.version>
 
 		<mysql.version>8.0.28</mysql.version>
 ======
-		<spring.data.jpa.version>3.3.0</spring.data.jpa.version>
+		<spring.data.jpa.version>3.3.1</spring.data.jpa.version>
 		<cglib.version>3.3.0</cglib.version>
 &gt;&gt;&gt;&gt;&gt;&gt; master
 
